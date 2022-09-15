@@ -44,6 +44,7 @@ export const config = {
         {"type": "生日", "name": "小文", "year": "2002", "date": "03-30"},
         {"type": "生日", "name": "小宋", "year": "2002", "date": "01-14"},
         {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "01-18"},
+        FESTIVALS_LIMIT: 4,
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         
       ],
